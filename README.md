@@ -45,7 +45,9 @@ https://github.com/ProletRevDicta/Prolet
 https://book.mlmlib.top/
 
 马列毛主义与革命左翼图书馆 电报号 最新燎原月刊
-@taipingtianguo
+t.me/taipingtianguo
+网页打开跳转到电报
+或者电报内搜索@taipingtianguo
 
 马列毛资料库app  文件备份 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）
 
