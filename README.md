@@ -34,7 +34,7 @@ https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 
   二.其他人的github项目  包含很多资料
 
-github资料库（点击view code浏览目录）
+github资料库（可以在线阅览书籍，点击view code打开项目，  点击左上角... 有download下载选项）
 
 https://github.com/ProletRevDicta/Prolet
 
@@ -166,6 +166,8 @@ https://xmsoushu.com/#/
 书享家-电子书下载导航
 
 https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719097155
+
+未完待续....
 
 
 
