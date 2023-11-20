@@ -34,7 +34,8 @@ https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 
   二.其他人的github项目  包含很多资料
 
-github资料库（可以在线阅览书籍，点击view code打开项目，  点击左上角... 有download下载选项）
+github资料库
+（可以在线阅览书籍，特别注意点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可下载，download下载按钮只能在电脑端使用）
 
 https://github.com/ProletRevDicta/Prolet
 
