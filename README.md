@@ -44,6 +44,9 @@ https://github.com/ProletRevDicta/Prolet
 马列毛资料库网页版，此为马列毛资料库app的网页版，需要密码登录，密码在顶部提示（注意鉴别里面的的西马特别是阿尔都塞的内容）
 https://book.mlmlib.top/
 
+马列毛主义与革命左翼图书馆 电报号 最新燎原月刊
+@taipingtianguo
+
 马列毛资料库app  文件备份 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）
 
 https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D
