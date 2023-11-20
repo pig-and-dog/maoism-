@@ -1,7 +1,12 @@
 # maoism-
 搜集的一些马列毛主义互联网资料，全世界无产者联合起来，工人解放，为了实现共产主义而奋斗
 
+此项目复制于其他github项目，与个人无关。网址打不开 没反应请使用科学上网。
+外文网页建议配合浏览器插件翻译，比如插件twp,推荐使用firefox或者chrome浏览器
 
+此项目地址（app异常，无法下载 可以复制地址到浏览器打开，打不开就使用科学上网）
+
+https://github.com/bitface9527/maoism-/tree/main
 
 
 
@@ -55,8 +60,13 @@ http://www.mzdbl.cn/
 
 https://maozhuyi.home.blog/category/%e5%9f%ba%e7%a1%80%e6%96%87%e4%bb%b6/
 
+
+From Marx to Mao --- 从马克思到毛泽东
+
+http://www.marx2mao.com/
+
   
- 国际共产主义联盟（毛主义）
+ 国际共产主义联盟官网（毛主义）
 
 https://ci-ic.org/
 
@@ -70,22 +80,6 @@ https://maozhuyi.home.blog/
 
 https://library.proletarian.me/
 
-
-俄罗斯毛主义党资料库
-
-https://rusmaoparty.org/library/
-
-
-irm国际红色通讯
-https://irn.red/
-
-
-在线旧报刊（人民日报 红旗等）
-https://reader.jojokanbao.cn/
-                
-托派建立的马克思主义文库（需要甄别托派理论和西马理论）
-
-https://www.marxists.org/chinese/index.html
 
 激流网
 
@@ -102,6 +96,48 @@ http://www.sjgczy.com/
 http://www.gczyqzggpy.com/
 
 
+中国劳工报
+https://clb.org.hk/en
+
+
+马列毛群众
+
+https://mlmmlm-icu.github.io/t/topic/index.html
+
+
+俄罗斯毛主义党资料库
+
+https://rusmaoparty.org/library/
+
+SOL ROJO 新聞
+https://pukainti.blogspot.com/?m=1
+
+
+保衛馬克思 新聞
+
+http://www.marxist.com/
+
+
+
+irm国际红色通讯
+
+https://irn.red/
+
+
+bannedthought資料庫
+
+https://www.bannedthought.net/
+
+在线旧报刊（人民日报 红旗等）
+https://reader.jojokanbao.cn/
+
+                
+托派建立的马克思主义文库（需要甄别托派理论和西马理论）
+
+https://www.marxists.org/chinese/index.html
+
+
+
 文革与当代史研究网 （需自行辨别资料）
 
 https://difangwenge.org/
@@ -112,11 +148,21 @@ https://difangwenge.org/
 http://redchinacn.net/
 
 
+马列毛书籍 - OneDrive网盘（注意鉴别里面的的西马内容）
+
+https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D
+
+
+
 
 熊猫搜书_熊猫搜索_一站式读书学习导航站_聚合电子书及文档搜索（包含zli图书馆馆可用网址 等）
 
 https://xmsoushu.com/#/
 
+
+书享家-电子书下载导航
+
+https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719097155
 
 
 
