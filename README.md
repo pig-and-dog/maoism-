@@ -8,7 +8,8 @@
 
 https://github.com/bitface9527/maoism-/tree/main
 
-
+注意：压缩包windows可以用7zip或者bandzip打开，安卓手机建议用mt文件管理器，安卓系统自带解压可能显示空文件夹，根据解压文件名后缀 网上查询用什么软件打开。
+一般的图书，安卓可以静读天下，linux和win可以使用 Koodo/Caliber/FBReader 等免费阅读器
 
                                       一.网盘资料：
      
