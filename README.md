@@ -8,12 +8,12 @@
 
 此项目地址（app异常，无法下载 可以复制地址到浏览器打开）
 
-https://github.com/bitface9527/maoism-/tree/main
+https://github.com/bitface9527/maoism-
 
 注意：压缩包windows可以用7zip或者bandzip打开，安卓手机建议用mt文件管理器，安卓系统自带解压可能显示空文件夹，根据解压文件名后缀 网上查询用什么软件打开。
 一般的图书，安卓可以静读天下，linux和win可以使用 Koodo/Caliber/FBReader 等免费阅读器
 
-                                      一.网盘资料：
+ 一.网盘资料：
      
       
       解压密码多为文件名后括号或者文件名中文后英文开始的部分（不包含文件名后缀）                                        
@@ -32,14 +32,14 @@ https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo
 
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 
-                                       二.其他人的github项目  包含很多资料
+  二.其他人的github项目  包含很多资料
 
 github资料库（点击view code浏览目录）
 
 https://github.com/ProletRevDicta/Prolet
 
 
-                                        三.一些推荐网站
+         三.一些推荐网站
                           
  布站（新闻 文章等）
  
