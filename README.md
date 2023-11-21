@@ -59,6 +59,7 @@ https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo
 （三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）  
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131  
 #  三.其他人的github项目/资料库，包含很多资料
+![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7.png)   
 ******github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用*****
  
 燎原月刊官方（同步更新）   https://github.com/monthlyliaoyuan/monthlyliaoyuan     
@@ -137,5 +138,7 @@ https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719
 
 ~~持续更新，未完待续.......~~       
 # 长路漫漫从头越
+![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%96%B0%E9%95%BF%E5%BE%81.jpg)  
+新长征
 
 
