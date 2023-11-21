@@ -2,7 +2,7 @@
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E7%BA%AA%E5%BF%B5%E6%95%99%E5%91%98%E6%AF%9B%E6%B3%BD%E4%B8%9C.png)
 maoism-马列毛主义图书资料库（纪念我们的伟大导师 马克思 恩格斯 列宁 斯大林 毛泽东主席）  
 
-      目录：
+    目录：
       一.马列毛学习推荐（包含马列毛哲学和西马批判）
       二、互联网搜集的网盘（分类齐全）
       三、其他人的github项目/资料库（燎原月刊/春雷等）
