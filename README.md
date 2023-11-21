@@ -50,7 +50,7 @@
 # 二.互联网搜集的网盘资源     
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E9%95%BF%E5%BE%81.png) 
 
-******解压密码多为文件名后括号或者文件名中文后英文开始的部分（不包含文件名后缀）*****      
+******解压密码多为文件名后括号内的字母数字或者文件名中文后英文开始的部分（不包含“.xxx”文件名后缀）*****      
 
 （一）国际国内共产运动历史（继续革命）+软件互联网安全（包含韩丁，斯诺专题等）  
 https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang     
