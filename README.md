@@ -1,4 +1,4 @@
-## 全世界无产者联合起来，全世界受压迫者和被剥削者联合起来，实现自我解放！为了实现共产主义而奋斗
+# 全世界无产者联合起来，全世界受压迫者和被剥削者联合起来，实现自我解放！为了实现共产主义而奋斗
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E7%BA%AA%E5%BF%B5%E6%95%99%E5%91%98%E6%AF%9B%E6%B3%BD%E4%B8%9C.png)
 **maoism-马列毛主义图书资料库（纪念我们的伟大导师 马克思 恩格斯 列宁 斯大林 毛泽东主席）**  
 
@@ -54,7 +54,7 @@ https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang
 https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo    
 （三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）  
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131  
-##  三.其他人的github项目/资料库，包含很多资料
+#  三.其他人的github项目/资料库，包含很多资料
 ******github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用*****
  
 燎原月刊官方（同步更新）   https://github.com/monthlyliaoyuan/monthlyliaoyuan     
