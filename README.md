@@ -64,37 +64,30 @@ https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo
 （三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）
 
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
-
-    三.其他人的github项目/资料库，包含很多资料
- （github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用）
+#  三.其他人的github项目/资料库，包含很多资料
+ **github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用**
  
-燎原月刊官方（同步更新）
+燎原月刊官方（同步更新）  
 https://github.com/monthlyliaoyuan/monthlyliaoyuan
-
 春雷杂志官方（同步更新）https://github.com/monthlyliaoyuan/SpringThunder
+马列毛资料  
+https://github.com/ProletRevDicta/Prolet  
 
-马列毛资料
-https://github.com/ProletRevDicta/Prolet
-
-非github其他资料库
-马列毛资料库网页版，此为马列毛资料库app的网页版，需要密码登录，密码在顶部提示（注意鉴别里面的的西马特别是阿尔都塞的内容）
-https://book.mlmlib.top/
-
-马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）
-
+非github其他资料库  
+马列毛资料库网页版，此为马列毛资料库app的网页版，需要密码登录，密码在顶部提示（注意鉴别里面的的西马特别是阿尔都塞的内容）  
+https://book.mlmlib.top/  
+马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）  
 https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D
 
 
-         四.一些推荐网站
+# 四.一些推荐网站
                           
-布站（新闻 文章等，需要魔法）
- 
+**布站**（新闻 文章等，需要魔法）  
  https://longlivemarxleninmaoism.online/
 
-国际共产主义联盟官网（毛主义）
-https://ci-ic.org/
-
-在线旧报刊（人民日报 红旗等）
+**国际共产主义联盟官网（毛主义）** 
+https://ci-ic.org/  
+在线旧报刊（人民日报 红旗等）  
 https://reader.jojokanbao.cn/
 
 中国革命历史文献资料
@@ -215,15 +208,11 @@ https://t.me/gczy2022
 
 
 
-
-    搜书网站合集
+##  搜书网站合集
 1.熊猫搜书_熊猫搜索_一站式读书学习导航站_聚合电子
-书及文档搜索（包含zli图书馆馆可用网址 等）
-
-https://xmsoushu.com/#/
-
-
-2.书享家-电子书下载导航
+书及文档搜索（包含zli图书馆馆可用网址 等）  
+https://xmsoushu.com/#/    
+2.书享家-电子书下载导航     
 https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719097155
 
 
