@@ -67,13 +67,13 @@ https://book.mlmlib.top/
 马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）  
 https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D   
 ## 四.一些推荐网站                         
-#### **布站**（新闻 文章等，需要魔法）  
+### **布站**（新闻 文章等，需要魔法）  
  https://longlivemarxleninmaoism.online/
-#### **国际共产主义联盟官网（毛主义）**    
+### **国际共产主义联盟官网（毛主义）**    
 https://ci-ic.org/      
-#### 毛泽东博览（毛泽东资料库）    
+### 毛泽东博览（毛泽东资料库）    
 http://www.mzdbl.cn/  
-#### 激流网          
+### 激流网          
 https://jiliuwang.net/   
 
 实践共产主义网   
