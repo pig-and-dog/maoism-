@@ -16,7 +16,7 @@
 
 ### **特别注意**：请勿用于非法犯罪等目的使用，遵纪守法，拥护中国共产党领导
          
-# **一.马列毛学习推荐， 资料链接在后文**   
+## **一.马列毛学习推荐， 资料链接在后文**   
 1.教员 ：辩证法唯物论讲授提纲，教员五篇哲学  
 （实践论 ，矛盾论，人的正确认识哪里来，关于正确处理人民内部矛盾的问题，在全国会议上讲话）  
 2.艾思奇 ：辩证唯物主义和历史唯物主义 ， 艾思奇讲稿选，  
@@ -45,7 +45,7 @@
 魏巍同志晚年文章， 特别是总结继续革命理论经验的  
 铁木尔哈达(党员)的晚年日记《醒悟》  等  
 
-# 二.互联网搜集的网盘资源     
+## 二.互联网搜集的网盘资源     
 #### **解压密码多为文件名后括号或者文件名中文后英文开始的部分（不包含文件名后缀）**                                       
 （一）国际国内共产运动历史（继续革命）+软件互联网安全（包含韩丁，斯诺专题等）  
 https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang     
@@ -55,7 +55,7 @@ https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo
 （三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）  
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131  
 
-#  三.其他人的github项目/资料库，包含很多资料
+##  三.其他人的github项目/资料库，包含很多资料
 #### **github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用**
  
 燎原月刊官方（同步更新）   https://github.com/monthlyliaoyuan/monthlyliaoyuan     
@@ -67,13 +67,9 @@ https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 https://book.mlmlib.top/     
 马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）  
 https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D   
-
-
-# 四.一些推荐网站
-                          
+## 四.一些推荐网站                         
 #### **布站**（新闻 文章等，需要魔法）  
  https://longlivemarxleninmaoism.online/
-
 #### **国际共产主义联盟官网（毛主义）**    
 https://ci-ic.org/      
 
@@ -123,7 +119,6 @@ https://difangwenge.org/
 红色中文网（需自行辨别资料）      
 http://redchinacn.net/     
 #### Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）  
-
 https://t.me/mlmbbs     
 #### 马列毛主义与革命左翼图书馆     
 https://t.me/taipingtianguo    
