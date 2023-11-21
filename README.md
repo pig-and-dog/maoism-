@@ -35,7 +35,8 @@
 （原著阅读可以配上导读注释浅说，刚入原著没那么简单，不了解背景和各种批判对象），....其他根据个人需求。
  ## **西马批判：**  
  ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%99%9A%E5%B9%B4%E5%8D%A2%E5%8D%A1%E5%A5%87.png)  
- 作为西马创始人之一的卢卡奇自己晚年都批判西马
+*** 作为西马创始人之一的卢卡奇自己晚年都批判西马
+
 卢卡奇： 历史与阶级意识新版序言，我走向马克思的道路，关于社会存在的本体论    
 （用西马反西马，卢卡奇晚年回到马列主义自我批判早年思想唯心错误）  
 **全面介绍并批判西马：**   
@@ -67,11 +68,12 @@ https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 https://book.mlmlib.top/     
 马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）  
 https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D   
-# 四.一些推荐网站                         
-### 布站**（新闻 文章等，需要魔法）   https://longlivemarxleninmaoism.online/
-### 国际共产主义联盟官网（毛主义）   https://ci-ic.org/      
-### 毛泽东博览（毛泽东资料库）  http://www.mzdbl.cn/  
-### 激流网  https://jiliuwang.net/    
+# 四.一些推荐网站    
+![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%AD%A6%E7%94%9F.png)    
+### 布站**（新闻 文章等，需要魔法）   https://longlivemarxleninmaoism.online/    
+### 国际共产主义联盟官网（毛主义）   https://ci-ic.org/        
+### 毛泽东博览（毛泽东资料库）  http://www.mzdbl.cn/      
+### 激流网  https://jiliuwang.net/        
 
 实践共产主义网   
 http://www.sjgczy.com/      
@@ -129,9 +131,8 @@ https://t.me/gczy2022
 书及文档搜索（包含zli图书馆馆可用网址 等）  
 https://xmsoushu.com/#/    
 2.书享家-电子书下载导航     
-https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719097155   
-![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%AD%A6%E7%94%9F.png)  
+https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719097155       
 
-
+~~持续更新，未完待续.......~~
 
 
