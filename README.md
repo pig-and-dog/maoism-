@@ -72,7 +72,7 @@ https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang
 https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo
 
 
-（三）影音画报（红旗，人民日报，燎原月刊 ，春雷，历史影视纪录片等）
+（三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等）
 
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 
