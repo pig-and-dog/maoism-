@@ -79,29 +79,21 @@ https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 
     三.其他人的github项目/资料库，包含很多资料
+ （github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用）
+ 
 燎原月刊官方（同步更新）
 https://github.com/monthlyliaoyuan/monthlyliaoyuan
 
 春雷杂志官方（同步更新）https://github.com/monthlyliaoyuan/SpringThunder
 
-github资料库
-（可以在线阅览书籍，特别注意点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可下载，download下载按钮只能在电脑端使用）
-
+马列毛资料
 https://github.com/ProletRevDicta/Prolet
 
-马列毛主义与革命左翼图书馆 电报号 最新燎原月刊
-
-http://t.me/taipingtianguo
-
-网页打开跳转到电报
-或者电报内搜索@taipingtianguo
-
+非github其他资料库
 马列毛资料库网页版，此为马列毛资料库app的网页版，需要密码登录，密码在顶部提示（注意鉴别里面的的西马特别是阿尔都塞的内容）
 https://book.mlmlib.top/
 
-
-
-马列毛资料库app  文件备份 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）
+马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）
 
 https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D
 
