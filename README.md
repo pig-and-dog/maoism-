@@ -17,7 +17,7 @@
  压缩包windows可以用7zip或者bandzip打开，安卓手机建议用mt文件管理器，安卓系统自带解压可能显示空文件夹，根据解压文件名后缀 网上查询用什么软件打开。一般的图书，安卓可以用静读天下app，linux和win可以使用“Koodo/Caliber/FBReader“等免费阅读器 
 ### **特别注意**：请勿用于非法犯罪等目的使用，遵纪守法，拥护中国共产党领导        
 # **一.马列毛学习推荐， 资料链接在后文**  
-![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%AD%A6%E7%94%9F.png)  
+![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%95%99%E5%91%98.png)   
 1.教员 ：辩证法唯物论讲授提纲，教员五篇哲学  
 （实践论 ，矛盾论，人的正确认识哪里来，关于正确处理人民内部矛盾的问题，在全国会议上讲话）  
 2.艾思奇 ：辩证唯物主义和历史唯物主义 ， 艾思奇讲稿选，  
@@ -33,7 +33,9 @@
                 恩格斯晚年唯物史观五封书信   
 11.补充:，列宁著«卡尔马克思»，«论战斗唯物主义的意义»,«哲学笔记» ​，«政治经济学批评»序言，资本论  
 （原著阅读可以配上导读注释浅说，刚入原著没那么简单，不了解背景和各种批判对象），....其他根据个人需求。
- ## **西马批判：作为西马创始人之一的卢卡奇自己晚年都批判西马**         
+ ## **西马批判：**  
+ ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%99%9A%E5%B9%B4%E5%8D%A2%E5%8D%A1%E5%A5%87.png)  
+ 作为西马创始人之一的卢卡奇自己晚年都批判西马
 卢卡奇： 历史与阶级意识新版序言，我走向马克思的道路，关于社会存在的本体论    
 （用西马反西马，卢卡奇晚年回到马列主义自我批判早年思想唯心错误）  
 **全面介绍并批判西马：**   
@@ -127,8 +129,8 @@ https://t.me/gczy2022
 书及文档搜索（包含zli图书馆馆可用网址 等）  
 https://xmsoushu.com/#/    
 2.书享家-电子书下载导航     
-https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719097155
-
+https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719097155   
+![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%AD%A6%E7%94%9F.png)  
 
 
 
