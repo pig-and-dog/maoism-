@@ -11,8 +11,7 @@
  #### 此项目地址（app异常，无法下载 可以复制地址到浏览器打开）  
      https://github.com/bitface9527/maoism-  
 点击“view code”浏览文件目录  
-
-##### **须知**：    压缩包windows可以用7zip或者bandzip打开，安卓手机建议用mt文件管理器，安卓系统自带解压可能显示空文件夹，根据解压文件名后缀 网上查询用什么软件打开。一般的图书，安卓可以用静读天下app，linux和win可以使用“Koodo/Caliber/FBReader“等免费阅读器 
+ **须知**： 压缩包windows可以用7zip或者bandzip打开，安卓手机建议用mt文件管理器，安卓系统自带解压可能显示空文件夹，根据解压文件名后缀 网上查询用什么软件打开。一般的图书，安卓可以用静读天下app，linux和win可以使用“Koodo/Caliber/FBReader“等免费阅读器 
 
 ### **特别注意**：请勿用于非法犯罪等目的使用，遵纪守法，拥护中国共产党领导
          
