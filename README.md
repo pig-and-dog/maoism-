@@ -207,8 +207,9 @@ https://difangwenge.org/
 
 http://redchinacn.net/
 
-    电报
-Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石等）
+
+
+Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）
 http：//t.me/mlmbbs
 
 马列毛主义与革命左翼图书馆
