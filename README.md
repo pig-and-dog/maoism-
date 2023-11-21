@@ -44,7 +44,7 @@ maoism-马列毛主义图书资料库（纪念我们的伟大导师 马克思 �
 铁木尔哈达(党员)的晚年日记《醒悟》  等  
 
 ## 二.互联网搜集的网盘资源     
- *****解压密码多为文件名后括号或者文件名中文后英文开始的部分（不包含文件名后缀）**                                       
+ *****解压密码多为文件名后括号或者文件名中文后英文开始的部分（不包含文件名后缀）*****                                     
 （一）国际国内共产运动历史（继续革命）+软件互联网安全（包含韩丁，斯诺专题等）  
 https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang     
 
@@ -54,7 +54,7 @@ https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131  
 
 ##  三.其他人的github项目/资料库，包含很多资料
-*** **github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用**
+******github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用*****
  
 燎原月刊官方（同步更新）   https://github.com/monthlyliaoyuan/monthlyliaoyuan     
 春雷杂志官方（同步更新）   https://github.com/monthlyliaoyuan/SpringThunder     
