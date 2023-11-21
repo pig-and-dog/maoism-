@@ -23,7 +23,6 @@ https://github.com/bitface9527/maoism-
     三、其他人的github项目/资料库（燎原月刊/春雷等）
     四.一些推荐网站（布站，毛主义国际官网等）         
 # **一.马列毛学习推荐， 资料链接在后文**   
- 
 1.教员 ：辩证法唯物论讲授提纲，教员五篇哲学  
 （实践论 ，矛盾论，人的正确认识哪里来，关于正确处理人民内部矛盾的问题，在全国会议上讲话）  
 2.艾思奇 ：辩证唯物主义和历史唯物主义 ， 艾思奇讲稿选，  
@@ -39,7 +38,6 @@ https://github.com/bitface9527/maoism-
                 恩格斯晚年唯物史观五封书信   
 11.补充:，列宁著«卡尔马克思»，«论战斗唯物主义的意义»,«哲学笔记» ​，«政治经济学批评»序言，资本论  
 （原著阅读可以配上导读注释浅说，刚入原著没那么简单，不了解背景和各种批判对象），....其他根据个人需求。
-
  ## **西马批判：作为西马创始人之一的卢卡奇自己晚年都批判西马**         
 卢卡奇：  
 历史与阶级意识新版序言，我走向马克思的道路，关于社会存在的本体论    
@@ -53,12 +51,9 @@ https://github.com/bitface9527/maoism-
 魏巍同志晚年文章， 特别是总结继续革命理论经验的  
 铁木尔哈达(党员)的晚年日记《醒悟》  等  
 
-# 二.互联网搜集的网盘资源 
-          
-### **解压密码多为文件名后括号或者文件名中文后英文开始的部分（不包含文件名后缀）**                                       
-
+# 二.互联网搜集的网盘资源     
+#### **解压密码多为文件名后括号或者文件名中文后英文开始的部分（不包含文件名后缀）**                                       
 （一）国际国内共产运动历史（继续革命）+软件互联网安全（包含韩丁，斯诺专题等）  
-
 https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang     
 
 （二）马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判（包含 马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等）  
@@ -67,7 +62,7 @@ https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131  
 
 #  三.其他人的github项目/资料库，包含很多资料
-### **github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用**
+#### **github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用**
  
 燎原月刊官方（同步更新）   https://github.com/monthlyliaoyuan/monthlyliaoyuan     
 春雷杂志官方（同步更新）   https://github.com/monthlyliaoyuan/SpringThunder     
@@ -82,16 +77,17 @@ https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&
 
 # 四.一些推荐网站
                           
-**布站**（新闻 文章等，需要魔法）  
+#### **布站**（新闻 文章等，需要魔法）  
  https://longlivemarxleninmaoism.online/
 
-**国际共产主义联盟官网（毛主义）** 
-https://ci-ic.org/  
+#### **国际共产主义联盟官网（毛主义）**    
+https://ci-ic.org/      
+
 在线旧报刊（人民日报 红旗等）    
 https://reader.jojokanbao.cn/
-毛泽东博览（毛泽东资料库）    
+#### 毛泽东博览（毛泽东资料库）    
 http://www.mzdbl.cn/  
-激流网      
+#### 激流网          
 https://jiliuwang.net/   
 实践共产主义网   
 http://www.sjgczy.com/      
@@ -107,6 +103,7 @@ https://www.linbiao.org/forum/index.php
    
 马列毛图书馆：  
 https://maozhuyi.home.blog/category/%e5%9f%ba%e7%a1%80%e6%96%87%e4%bb%b6/  
+
 From Marx to Mao --- 从马克思到毛泽东   
 http://www.marx2mao.com/   
 贡派马列毛图书馆 – 坚持、捍卫和应用马列毛主义，主要是毛主义！     
@@ -116,7 +113,7 @@ https://library.proletarian.me/
 中国劳工报   
 https://clb.org.hk/en      
 马列毛群众    
-https://mlmmlm-icu.github.io/t/topic/index.html
+https://mlmmlm-icu.github.io/t/topic/index.html  
 俄罗斯毛主义党资料库      
 https://rusmaoparty.org/library/  
 bannedthought資料庫     
@@ -134,7 +131,7 @@ http://redchinacn.net/
 #### Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）  
 
 https://t.me/mlmbbs     
-马列毛主义与革命左翼图书馆     
+#### 马列毛主义与革命左翼图书馆     
 https://t.me/taipingtianguo    
 马列毛新闻        
 https://t.me/eventstracing         
