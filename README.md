@@ -49,35 +49,29 @@ https://github.com/bitface9527/maoism-
 
 # 二.互联网搜集的网盘资源 
           
-解压密码多为文件名后括号或者文件名中文后英文开始的部分（不包含文件名后缀） ，                                       
+**解压密码多为文件名后括号或者文件名中文后英文开始的部分（不包含文件名后缀）**                                       
 
-（一）国际国内共产运动历史（继续革命）+软件互联网安全（包含韩丁，斯诺专题等）
+（一）国际国内共产运动历史（继续革命）+软件互联网安全（包含韩丁，斯诺专题等）  
 
-https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang
+https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang     
 
+（二）马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判（包含 马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等）  
+https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo    
+（三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）  
+https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131  
 
-（二）马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判（包含 马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等）
-
-https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo
-
-
-（三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）
-
-https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 #  三.其他人的github项目/资料库，包含很多资料
  **github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用**
  
-燎原月刊官方（同步更新）  
-https://github.com/monthlyliaoyuan/monthlyliaoyuan
-春雷杂志官方（同步更新）https://github.com/monthlyliaoyuan/SpringThunder
-马列毛资料  
-https://github.com/ProletRevDicta/Prolet  
+燎原月刊官方（同步更新）   https://github.com/monthlyliaoyuan/monthlyliaoyuan     
+春雷杂志官方（同步更新）   https://github.com/monthlyliaoyuan/SpringThunder     
+马列毛资料      https://github.com/ProletRevDicta/Prolet        
 
-非github其他资料库  
+非github其他资料库     
 马列毛资料库网页版，此为马列毛资料库app的网页版，需要密码登录，密码在顶部提示（注意鉴别里面的的西马特别是阿尔都塞的内容）  
-https://book.mlmlib.top/  
+https://book.mlmlib.top/     
 马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）  
-https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D
+https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D   
 
 
 # 四.一些推荐网站
