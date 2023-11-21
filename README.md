@@ -111,6 +111,8 @@ https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&
 国际共产主义联盟官网（毛主义）
 https://ci-ic.org/
 
+在线旧报刊（人民日报 红旗等）
+https://reader.jojokanbao.cn/
 
 中国革命历史文献资料
  http://geming.20m.com/
@@ -188,9 +190,6 @@ https://irn.red/
 bannedthought資料庫
 
 https://www.bannedthought.net/
-
-在线旧报刊（人民日报 红旗等）
-https://reader.jojokanbao.cn/
 
                 
 托派建立的马克思主义文库（需要甄别托派理论和西马理论）
