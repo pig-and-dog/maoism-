@@ -18,8 +18,8 @@ https://github.com/bitface9527/maoism-
 
     目录：
     一.马列毛学习推荐（包含马列毛哲学和西马批判）
-    二、互联网搜集的网盘
-    三、其他人的github项目/资料库
+    二、互联网搜集的网盘（分类齐全）
+    三、其他人的github项目/资料库（燎原月刊/春雷等）
     四.一些推荐网站（布站，毛主义国际官网等）       
 正文
  一.马列毛学习推荐， 资料链接在后文
@@ -74,11 +74,15 @@ https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang
 https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo
 
 
-（三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等）
+（三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）
 
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 
     三.其他人的github项目/资料库，包含很多资料
+燎原月刊官方（同步更新）
+https://github.com/monthlyliaoyuan/monthlyliaoyuan
+
+春雷杂志官方（同步更新）https://github.com/monthlyliaoyuan/SpringThunder
 
 github资料库
 （可以在线阅览书籍，特别注意点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可下载，download下载按钮只能在电脑端使用）
