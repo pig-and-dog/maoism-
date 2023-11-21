@@ -112,10 +112,8 @@ https://irn.red/
 https://difangwenge.org/    
 红色中文网（需自行辨别资料）      
 http://redchinacn.net/     
-#### Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）  
-https://t.me/mlmbbs     
-#### 马列毛主义与革命左翼图书馆     
-https://t.me/taipingtianguo    
+#### Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）  https://t.me/mlmbbs     
+#### 马列毛主义与革命左翼图书馆     https://t.me/taipingtianguo    
 马列毛新闻        
 https://t.me/eventstracing         
 菲律宾人民战争广播（本频道主要介绍菲律宾共产党领导下的菲律宾人民战争的进程、斗争历史和革命经验,以此散播马列毛主义。）
