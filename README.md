@@ -179,15 +179,13 @@ http://redchinacn.net/
 
 
 
-Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）
-https://t.me/mlmbbs
-
-马列毛主义与革命左翼图书馆
-https://t.me/taipingtianguo
-
+### Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）
+https://t.me/mlmbbs     
+马列毛主义与革命左翼图书馆  
+https://t.me/taipingtianguo  
 马列毛新闻https://t.me/eventstracing
 菲律宾人民战争广播（本频道主要介绍菲律宾共产党领导下的菲律宾人民战争的进程、斗争历史和革命经验,以此散播马列毛主义。）
-https://t.me/mlmcpp
+https://t.me/mlmcpp  
 东风-马列毛文献资料库https://t.me/DFMLMlib      
 无产阶级革命历史资料 https://t.me/prorevhisdata      
 革命火炬https://t.me/gczy2022     
