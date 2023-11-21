@@ -134,7 +134,6 @@ From Marx to Mao --- 从马克思到毛泽东
 http://www.marx2mao.com/
 
   
-
 贡派马列毛图书馆 – 坚持、捍卫和应用马列毛主义，主要是毛主义！
 
 https://maozhuyi.home.blog/
@@ -182,11 +181,9 @@ https://pukainti.blogspot.com/?m=1
 http://www.marxist.com/
 
 
-
 irm国际红色通讯
 
 https://irn.red/
-
 
 bannedthought資料庫
 
@@ -201,7 +198,6 @@ https://reader.jojokanbao.cn/
 https://www.marxists.org/chinese/index.html
 
 
-
 继续革命与当代史研究网 （需自行辨别资料）
 
 https://difangwenge.org/
@@ -211,11 +207,27 @@ https://difangwenge.org/
 
 http://redchinacn.net/
 
+    电报
+Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石等）
+http：//t.me/mlmbbs
 
+马列毛主义与革命左翼图书馆
+http：//t.me/taipingtianguo
 
+马列毛新闻
+http：//t.me/eventstracing
 
+菲律宾人民战争广播（本频道主要介绍菲律宾共产党领导下的菲律宾人民战争的进程、斗争历史和革命经验,以此散播马列毛主义。）
+http：//t.me/mlmcpp
 
+东风-马列毛文献资料库
+http：//t.me/DFMLMlib
 
+无产阶级革命历史资料
+http：//t.me/prorevhisdata
+
+革命火炬
+http：//t.me/gczy2022
 
 
 
