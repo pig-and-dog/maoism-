@@ -2,7 +2,7 @@
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E7%BA%AA%E5%BF%B5%E6%95%99%E5%91%98%E6%AF%9B%E6%B3%BD%E4%B8%9C.png)
 # **口号：全世界无产者联合起来，实现工人解放！为了实现共产主义而奋斗**
 
-**说明**：此项目复制于其他github项目，非个人制作，请勿用于非法用途。  
+#### **说明**：此项目复制于其他github项目，非个人制作，请勿用于非法用途。  
 如果网址打不开 没反应请使用魔法上网。    
 外文网页建议配合浏览器插件翻译，比如插件twp,推荐使用firefox或者chrome浏览器。
 如果点击链接没反应，请多等一会，或者换节点  
@@ -10,10 +10,10 @@
 https://github.com/bitface9527/maoism-  
 点击“view code”浏览文件目录  
 
-**须知**：压缩包windows可以用7zip或者bandzip打开，安卓手机建议用mt文件管理器，安卓系统自带解压可能显示空文件夹，根据解压文件名后缀 网上查询用什么软件打开。
-一般的图书，安卓可以用静读天下app，linux和win可以使用“Koodo/Caliber/FBReader“等免费阅读器  
+##### **须知**：压缩包windows可以用7zip或者bandzip打开，安卓手机建议用mt文件管理器，安卓系统自带解压可能显示空文件夹，根据解压文件名后缀 网上查询用什么软件打开。
+一般的图书，安卓可以用静读天下app，linux和win可以使用“Koodo/Caliber/FBReader“等免费阅读器 
 
-**特别注意**：请勿用于非法犯罪等目的使用，遵纪守法，拥护中国共产党领导
+#### **特别注意**：请勿用于非法犯罪等目的使用，遵纪守法，拥护中国共产党领导
 
     目录：
     一.马列毛学习推荐（包含马列毛哲学和西马批判）
@@ -38,12 +38,15 @@ https://github.com/bitface9527/maoism-
 11.补充:，列宁著«卡尔马克思»，«论战斗唯物主义的意义»,«哲学笔记» ​，«政治经济学批评»序言，资本论  
 （原著阅读可以配上导读注释浅说，刚入原著没那么简单，不了解背景和各种批判对象），....其他根据个人需求。
 
- # **西马批判：作为西马创始人之一的卢卡奇自己晚年都批判西马**         
-卢卡奇：历史与阶级意识新版序言，我走向马克思的道路，关于社会存在的本体论    
+ #### **西马批判：作为西马创始人之一的卢卡奇自己晚年都批判西马**         
+卢卡奇：  
+历史与阶级意识新版序言，我走向马克思的道路，关于社会存在的本体论    
 （用西马反西马，卢卡奇晚年回到马列主义自我批判早年思想唯心错误）  
 **全面介绍并批判西马：**   
-徐崇温 ：西方马克思主义，怎样认识西方马克思主义，（法兰克福学派述评，西方马克思主义_论丛）  
-   **其他 推荐：**  
+徐崇温 ：  
+西方马克思主义，怎样认识西方马克思主义，（法兰克福学派述评，西方马克思主义_论丛） 
+
+ ####   **其他 推荐：**  
 阳和平同志：关于继续革命的相关文章 音频 视频  
 魏巍同志晚年文章， 特别是总结继续革命理论经验的  
 铁木尔哈达(党员)的晚年日记《醒悟》  等  
@@ -82,103 +85,65 @@ https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&
 
 **国际共产主义联盟官网（毛主义）** 
 https://ci-ic.org/  
-在线旧报刊（人民日报 红旗等）  
+在线旧报刊（人民日报 红旗等）    
 https://reader.jojokanbao.cn/
+毛泽东博览（毛泽东资料库）    
+http://www.mzdbl.cn/  
+激流网      
+https://jiliuwang.net/   
+实践共产主义网   
+http://www.sjgczy.com/      
+共产主义旗帜网     
+http://www.gczyqzggpy.com/      
+托派建立的马克思主义文库（需要甄别托派理论和西马理论）    
+https://www.marxists.org/chinese/index.html     
 
-中国革命历史文献资料
- http://geming.20m.com/
-
- 林彪 军队 继续革命
-
-  https://www.linbiao.org/forum/index.php
-
- 
-毛泽东博览（毛泽东资料库）
-http://www.mzdbl.cn/
-
-
-马列毛图书馆：
-
-https://maozhuyi.home.blog/category/%e5%9f%ba%e7%a1%80%e6%96%87%e4%bb%b6/
-
-
-From Marx to Mao --- 从马克思到毛泽东
-
-http://www.marx2mao.com/
-
-  
-贡派马列毛图书馆 – 坚持、捍卫和应用马列毛主义，主要是毛主义！
-
-https://maozhuyi.home.blog/
-
-
-無產階級圖書館 - 解放知識！
-
-https://library.proletarian.me/
-
-
-激流网
-
-https://jiliuwang.net/
-
-
-实践共产主义网
-       
-http://www.sjgczy.com/
-
-
-共产主义旗帜网
-
-http://www.gczyqzggpy.com/
-
-
-中国劳工报
-https://clb.org.hk/en
-
-
-马列毛群众
-
+中国革命历史文献资料  
+ http://geming.20m.com/  
+ 林彪 军队 继续革命    
+https://www.linbiao.org/forum/index.php  
+   
+马列毛图书馆：  
+https://maozhuyi.home.blog/category/%e5%9f%ba%e7%a1%80%e6%96%87%e4%bb%b6/  
+From Marx to Mao --- 从马克思到毛泽东   
+http://www.marx2mao.com/   
+贡派马列毛图书馆 – 坚持、捍卫和应用马列毛主义，主要是毛主义！     
+https://maozhuyi.home.blog/    
+無產階級圖書館 - 解放知識！        
+https://library.proletarian.me/       
+中国劳工报   
+https://clb.org.hk/en      
+马列毛群众    
 https://mlmmlm-icu.github.io/t/topic/index.html
-
-
-俄罗斯毛主义党资料库
-
-https://rusmaoparty.org/library/
-
-SOL ROJO 新聞
-https://pukainti.blogspot.com/?m=1
-
-
+俄罗斯毛主义党资料库      
+https://rusmaoparty.org/library/  
+bannedthought資料庫     
+https://www.bannedthought.net/     
+SOL ROJO 新聞    
+https://pukainti.blogspot.com/?m=1    
 保衛馬克思 新聞    
 http://www.marxist.com/  
-irm国际红色通讯  
-https://irn.red/    
-bannedthought資料庫  
-https://www.bannedthought.net/  
-
-                
-托派建立的马克思主义文库（需要甄别托派理论和西马理论）  
-https://www.marxists.org/chinese/index.html  
+irm国际红色通讯     
+https://irn.red/      
 继续革命与当代史研究网 （需自行辨别资料）
-https://difangwenge.org/  
-红色中文网（需自行辨别资料）    
-http://redchinacn.net/  
-### Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）  
+https://difangwenge.org/    
+红色中文网（需自行辨别资料）      
+http://redchinacn.net/     
+#### Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）  
 
 https://t.me/mlmbbs     
-马列毛主义与革命左翼图书馆  
-https://t.me/taipingtianguo  
-马列毛新闻https://t.me/eventstracing
+马列毛主义与革命左翼图书馆     
+https://t.me/taipingtianguo    
+马列毛新闻        
+https://t.me/eventstracing         
 菲律宾人民战争广播（本频道主要介绍菲律宾共产党领导下的菲律宾人民战争的进程、斗争历史和革命经验,以此散播马列毛主义。）
-https://t.me/mlmcpp  
-东风-马列毛文献资料库https://t.me/DFMLMlib      
-无产阶级革命历史资料 https://t.me/prorevhisdata      
-革命火炬https://t.me/gczy2022     
-
-
-
-
-##  搜书网站合集
+https://t.me/mlmcpp         
+东风-马列毛文献资料库 https://t.me/DFMLMlib         
+无产阶级革命历史资料    
+https://t.me/prorevhisdata      
+革命火炬     
+https://t.me/gczy2022     
+###   搜书网站合集
 1.熊猫搜书_熊猫搜索_一站式读书学习导航站_聚合电子
 书及文档搜索（包含zli图书馆馆可用网址 等）  
 https://xmsoushu.com/#/    
