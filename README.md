@@ -149,37 +149,22 @@ SOL ROJO 新聞
 https://pukainti.blogspot.com/?m=1
 
 
-保衛馬克思 新聞
-
-http://www.marxist.com/
-
-
-irm国际红色通讯
-
-https://irn.red/
-
-bannedthought資料庫
-
-https://www.bannedthought.net/
+保衛馬克思 新聞    
+http://www.marxist.com/  
+irm国际红色通讯  
+https://irn.red/    
+bannedthought資料庫  
+https://www.bannedthought.net/  
 
                 
-托派建立的马克思主义文库（需要甄别托派理论和西马理论）
-
-https://www.marxists.org/chinese/index.html
-
-
+托派建立的马克思主义文库（需要甄别托派理论和西马理论）  
+https://www.marxists.org/chinese/index.html  
 继续革命与当代史研究网 （需自行辨别资料）
+https://difangwenge.org/  
+红色中文网（需自行辨别资料）    
+http://redchinacn.net/  
+### Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）  
 
-https://difangwenge.org/
-
-
-红色中文网（需自行辨别资料）
-
-http://redchinacn.net/
-
-
-
-### Marx BBS TM（ bbs论坛语音 阳和平 红贝 太湖石讲课等）
 https://t.me/mlmbbs     
 马列毛主义与革命左翼图书馆  
 https://t.me/taipingtianguo  
