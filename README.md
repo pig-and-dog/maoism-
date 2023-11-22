@@ -34,7 +34,7 @@
 &ensp;&ensp;&ensp;&ensp;（原著阅读可以配上导读注释浅说，刚入原著没那么简单，不了解背景和各种批判对象），....其他根据个人需求。
  ## **西马批判：**  
  ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%99%9A%E5%B9%B4%E5%8D%A2%E5%8D%A1%E5%A5%87.png)  
-&ensp;&ensp;&ensp;&ensp;*** 作为西马创始人之一的卢卡奇自己晚年都批判西马
+&ensp;&ensp;&ensp;&ensp;*** 作为西马创始人之一的卢卡奇自己晚年都批判西马     
 书籍推荐：   
 卢卡奇： 历史与阶级意识新版序言，我走向马克思的道路，关于社会存在的本体论    
 &ensp;&ensp;&ensp;（卢卡奇晚年回到马列主义自我批判早年思想唯心错误）  
