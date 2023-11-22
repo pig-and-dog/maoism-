@@ -61,7 +61,8 @@ https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 #  三.其他人的github项目/资料库，包含很多资料
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7.png)   
 ******github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用*****   
-小白网络加速器使用教程：https://github.com/pig-and-dog/catos     
+小白网络加速器使用教程：https://github.com/pig-and-dog/catos
+小黑网络加速器备用： https://github.com/bannedbook/fanqiang    
 燎原月刊官方（同步更新）   https://github.com/monthlyliaoyuan/monthlyliaoyuan     
 春雷杂志官方（同步更新）   https://github.com/monthlyliaoyuan/SpringThunder     
 马列毛资料      https://github.com/ProletRevDicta/Prolet        
