@@ -160,6 +160,6 @@ https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719
 ~~持续更新，未完待续.......~~       
 # 长路漫漫从头越
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%96%B0%E9%95%BF%E5%BE%81.jpg)  
-新长征
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;新长征
 
 
