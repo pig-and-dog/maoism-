@@ -3,17 +3,20 @@
 **maoism-马列毛主义图书资料库（纪念我们的伟大导师 马克思 恩格斯 列宁 斯大林 毛泽东主席）**  
 
     目录：
-    一.马列毛学习推荐（包含马列毛哲学和西马批判）
-    二、互联网搜集的网盘（分类齐全）
-    三、其他人的github项目/资料库（燎原月刊/春雷等）
-    四.一些推荐网站（布站，毛主义国际官网等）
+    一.马列毛学习推荐
+    二.西方马克思主义概论及批判
+    三、互联网搜集的网盘（分类齐全）
+    
+    四、其他人的github项目/资料库（燎原月刊/春雷等）
+    五.一些推荐网站（布站，毛主义国际官网等）
  此项目地址（app异常，无法下载 可以复制地址到浏览器打开）  
  
      https://github.com/bitface9527/maoism-  
 &ensp;&ensp;&ensp;&ensp;*****点击“view code”浏览文件目录****   
 &ensp;&ensp;&ensp;&ensp; **说明**：   此项目复制于其他github项目，非个人制作，请勿用于非法用途。  如果网址打不开或者没反应请使用魔法上网（参考目录二 互联网的github项目）。外文网页建议配合浏览器插件翻译，比如插件twp,推荐使用firefox或者chrome浏览器。如果点击链接没反应，请多等一会，或者换节点。       
  &ensp;&ensp;&ensp;&ensp;**须知**：    压缩包windows可以用7zip或者bandzip打开，安卓手机建议用mt文件管理器，安卓系统自带解压可能显示空文件夹，根据解压文件名后缀 网上查询用什么软件打开。一般的图书，安卓可以用静读天下app，linux和win可以使用“Koodo/Caliber/FBReader“等免费阅读器 
-### **特别注意**：请勿用于非法犯罪等目的使用，遵纪守法，拥护中国共产党领导        
+### **特别注意**：请勿用于非法犯罪等目的使用，遵纪守法，拥护中国共产党领导  
+# 如果想看资源 直接往下拉到三
 # **一.马列毛学习推荐， 资料链接在后文**  
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%95%99%E5%91%98.png)   
 1.教员 ：辩证法唯物论讲授提纲，     
@@ -32,7 +35,11 @@
 &ensp;&ensp;&ensp;&ensp; 恩格斯晚年唯物史观五封书信   
 11.补充:，列宁著«卡尔马克思»，«论战斗唯物主义的意义»,«哲学笔记» ​，«政治经济学批评»序言，资本论  
 &ensp;&ensp;&ensp;&ensp;（原著阅读可以配上导读注释浅说，刚入原著没那么简单，不了解背景和各种批判对象），....其他根据个人需求。
- ## **西方马克思主义思潮：**  
+ ####   **其他 推荐：**  
+阳和平同志：关于继续革命的相关文章 音频 视频  
+魏巍同志晚年文章， 特别是总结继续革命理论经验的  
+铁木尔哈达(党员)的晚年日记《醒悟》  等
+ # 二 **西方马克思主义思潮：**  
  ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%99%9A%E5%B9%B4%E5%8D%A2%E5%8D%A1%E5%A5%87.png)  
 &ensp;&ensp;&ensp;&ensp;*** 作为西马创始人之一的卢卡奇自己晚年都批判西马     
 书籍推荐：   
@@ -95,12 +102,9 @@
 
 
 
- ####   **其他 推荐：**  
-阳和平同志：关于继续革命的相关文章 音频 视频  
-魏巍同志晚年文章， 特别是总结继续革命理论经验的  
-铁木尔哈达(党员)的晚年日记《醒悟》  等  
+  
 
-# 二.互联网搜集的网盘资源     
+# 三.互联网搜集的网盘资源     
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E9%95%BF%E5%BE%81.png) 
 
 &ensp;&ensp;&ensp;&ensp;******解压密码多为文件名后括号内的字母数字或者文件名中文后英文开始的部分（不包含“.xxx”文件名后缀）*****      
@@ -111,7 +115,7 @@ https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang
 https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo    
 （三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）  
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131  
-#  三.其他人的github项目/资料库，包含很多资料
+#  四.其他人的github项目/资料库，包含很多资料
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7.png)   
 &ensp;&ensp;&ensp;&ensp;******github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用*****   
 小白网络加速器使用教程：https://github.com/pig-and-dog/catos      
@@ -125,7 +129,7 @@ https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 https://book.mlmlib.top/     
 马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）  
 https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D   
-# 四.一些推荐网站    
+# 五.一些推荐网站    
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%AD%A6%E7%94%9F.png)    
 ### 布站**（新闻 文章等，需要魔法）   https://longlivemarxleninmaoism.online/    
 ### 国际共产主义联盟官网（毛主义）   https://ci-ic.org/        
