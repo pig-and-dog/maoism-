@@ -49,15 +49,8 @@
 &ensp;&ensp;&ensp;（卢卡奇晚年回到马列主义自我批判早年思想唯心错误）  
 &ensp;&ensp;**全面介绍并批判西马：**   
 徐崇温 ：  西方马克思主义，怎样认识西方马克思主义，（法兰克福学派述评，西方马克思主义_论丛）         
-[点击此标题查看正文](https://github.com/bitface9527/aiguo）     
-
-
-
+## 点击链接查看正文 https://github.com/bitface9527/aiguo     
 ##### 托洛茨基主义/安娜其无政府主义/修正主义批判参考下文网盘资源
-
-
-
-
 # 三.互联网搜集的网盘资源     
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E9%95%BF%E5%BE%81.png) 
 
