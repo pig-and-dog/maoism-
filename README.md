@@ -82,9 +82,7 @@ https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&
 ### 国际共产主义联盟官网（毛主义）   https://ci-ic.org/        
 ### 毛泽东博览（毛泽东资料库）  http://www.mzdbl.cn/      
 ### 激流网  https://jiliuwang.net/        
-
-实践共产主义网   
-http://www.sjgczy.com/      
+    
 共产主义旗帜网     
 http://www.gczyqzggpy.com/      
 托派建立的马克思主义文库（需要甄别托派理论和西马理论）    
