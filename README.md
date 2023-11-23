@@ -13,7 +13,7 @@
  此项目地址（app异常，无法下载 可以复制地址到浏览器打开）  
  
      https://github.com/bitface9527/maoism-  
-&ensp;&ensp;&ensp;&ensp;*****点击“view code”浏览文件目录****   
+&ensp;&ensp;&ensp;&ensp;*****点击“view code”浏览文件目录下载马克思主义图书馆安卓app****   
 &ensp;&ensp;&ensp;&ensp; **说明**：   此项目复制于其他github项目，非个人制作，请勿用于非法用途。  如果网址打不开或者没反应请使用魔法上网（参考目录二 互联网的github项目）。外文网页建议配合浏览器插件翻译，比如插件twp,推荐使用firefox或者chrome浏览器。如果点击链接没反应，请多等一会，或者换节点。       
  &ensp;&ensp;&ensp;&ensp;**须知**：    压缩包windows可以用7zip或者bandzip打开，安卓手机建议用mt文件管理器，安卓系统自带解压可能显示空文件夹，根据解压文件名后缀 网上查询用什么软件打开。一般的图书，安卓可以用静读天下app，linux和win可以使用“Koodo/Caliber/FBReader“等免费阅读器 
 ### **特别注意**：请勿用于非法犯罪等目的使用，遵纪守法，拥护中国共产党领导  
