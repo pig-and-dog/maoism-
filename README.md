@@ -41,7 +41,7 @@
 阳和平同志：关于继续革命的相关文章 音频 视频  
 魏巍同志晚年文章， 特别是总结继续革命理论经验的  
 铁木尔哈达(党员)的晚年日记《醒悟》  等
- # 二、西方马克思主义思潮：  
+ # 二、西方马克思主义思潮概论与批判：  
  ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E6%99%9A%E5%B9%B4%E5%8D%A2%E5%8D%A1%E5%A5%87.png)  
 &ensp;&ensp;&ensp;&ensp;*** 作为西马创始人之一的卢卡奇自己晚年都批判西马     
 书籍推荐：   
@@ -49,7 +49,7 @@
 &ensp;&ensp;&ensp;（卢卡奇晚年回到马列主义自我批判早年思想唯心错误）  
 &ensp;&ensp;**全面介绍并批判西马：**   
 徐崇温 ：  西方马克思主义，怎样认识西方马克思主义，（法兰克福学派述评，西方马克思主义_论丛）         
-## 点击链接查看正文 https://github.com/bitface9527/aiguo     
+## 西方马克思主义概论与批判正文（点击链接查看正文） https://github.com/bitface9527/aiguo     
 ##### 托洛茨基主义/安娜其无政府主义/修正主义批判参考下文网盘资源
 # 三.互联网搜集的网盘资源     
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E9%95%BF%E5%BE%81.png) 
