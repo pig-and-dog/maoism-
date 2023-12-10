@@ -6,9 +6,10 @@
     一、马列毛学习推荐    
     二、西方马克思主义概论及批判        
     三、互联网搜集的网盘（分类齐全）   
-    四、其他人的github项目/资料库（燎原月刊/春雷等）      
-    五.一些推荐网站（布站，毛主义国际官网等）       
-    六、匿名邮箱，匿名加密信息传输分享，图片文件消息 阅后即焚   
+    四、其他人的github项目/资料库（燎原月刊/春雷等）   
+    五  免费电子书检索下载（zli图书馆等）
+    六.一些推荐网站（布站，毛主义国际官网等）       
+    七、匿名邮箱，匿名加密信息传输分享，图片文件消息 阅后即焚   
     
  此项目地址（app异常，无法下载 可以复制地址到浏览器打开）  
  
@@ -75,8 +76,16 @@ https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131
 马列毛资料库网页版，此为马列毛资料库app的网页版，需要密码登录，密码在顶部提示（注意鉴别里面的的西马特别是阿尔都塞的内容）  
 https://book.mlmlib.top/     
 马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）  
-https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D   
-# 五.一些推荐网站    
+https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D    
+# 五.电子书检索下载引擎网站
+1.首选zli图书馆（全球最大开源电子书网站，一个账号每人免费10次下载）
+官网(需要魔法)： https://z-lib.is/         
+镜像站（免魔法）：https://zh.z-library.se](https://zlibrary-redirect.se/?redirectUrl=/   
+2.pdfdrive图书馆  https://www.pdfdrive.com/#      
+3.libgen图书馆   https://libgen.li/       
+4.无产阶级图书馆   http://45.32.41.3/            
+
+# 六.一些推荐网站  (新闻资料等)  
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%AD%A6%E7%94%9F.png)    
 ### 布站**（新闻 文章等，需要魔法）   https://longlivemarxleninmaoism.online/    
 ### 国际共产主义联盟官网（毛主义）   https://ci-ic.org/        
@@ -138,7 +147,7 @@ https://t.me/gczy2022
 https://xmsoushu.com/#/    
 2.书享家-电子书下载导航     
 https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719097155       
-# 六、一次性邮箱     
+# 七、一次性邮箱     
 https://www.guerrillamail.com/    
 https://temp-mail.org/zh/    
 https://yopmail.com/zh/    
