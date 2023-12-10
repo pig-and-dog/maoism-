@@ -80,7 +80,7 @@ https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&
 # 五.电子书检索下载引擎网站
 1.首选zli图书馆（全球最大开源电子书网站，一个账号每人免费10次下载）
 官网(需要魔法)： https://z-lib.is/         
-镜像站（免魔法）：https://zh.z-library.se](https://zlibrary-redirect.se/?redirectUrl=/   
+镜像站（免魔法）： https://zlibrary-redirect.se/?redirectUrl=/   
 2.pdfdrive图书馆  https://www.pdfdrive.com/#      
 3.libgen图书馆   https://libgen.li/       
 4.无产阶级图书馆   http://45.32.41.3/            
