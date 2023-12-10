@@ -61,11 +61,11 @@
 （一）国际国内共产运动历史（继续革命）+软件互联网安全（包含韩丁，斯诺专题等）  
 https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang     
 （二）马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判（包含 马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等）  
-https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo    
-（三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）  
-https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131 
-（四）燎原月刊官方网盘（同步更新）：
-https://www.mediafire.com/folder/19inu1mna8ioz    
+https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo          
+（三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）       
+https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131      
+（四）燎原月刊官方网盘（同步更新）：   
+https://www.mediafire.com/folder/19inu1mna8ioz          
 #  四.其他人的github项目/资料库，包含很多资料
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7.png)   
 &ensp;&ensp;&ensp;&ensp;******github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用*****   
