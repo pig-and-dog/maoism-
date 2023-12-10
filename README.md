@@ -140,12 +140,10 @@ http://redchinacn.net/
   马列毛新闻          https://t.me/eventstracing            
 菲律宾人民战争广播（本频道主要介绍菲律宾共产党领导下的菲律宾人民战争的进程、斗争历史和革命经验,以此散播马列毛主义。）
 https://t.me/mlmcpp         
-东风-马列毛文献资料库 https://t.me/DFMLMlib           
-无产阶级革命历史资料    
-https://t.me/prorevhisdata         
-革命火炬     
-https://t.me/gczy2022         
-工劳快讯：关注当代打工人    https://t.me/laborpower    
+东风-马列毛文献资料库 https://t.me/DFMLMlib              
+无产阶级革命历史资料    https://t.me/prorevhisdata           
+革命火炬     https://t.me/gczy2022          
+工劳快讯：关注当代打工人    https://t.me/laborpower       
 ###   搜书网站合集
 1.熊猫搜书_熊猫搜索_一站式读书学习导航站_聚合电子
 书及文档搜索（包含zli图书馆馆可用网址 等）  
