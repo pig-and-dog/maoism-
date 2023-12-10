@@ -1,6 +1,7 @@
 # 全世界无产者联合起来，全世界受压迫者和被剥削者联合起来，实现自我解放！为了实现共产主义而奋斗
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E7%BA%AA%E5%BF%B5%E6%95%99%E5%91%98%E6%AF%9B%E6%B3%BD%E4%B8%9C.png)
-**maoism-马列毛主义图书资料库（纪念我们的伟大导师 马克思 恩格斯 列宁 斯大林 毛泽东主席）**    
+**maoism-马列毛主义图书资料库（纪念我们的伟大导师 马克思 恩格斯 列宁 斯大林 毛泽东主席）**  
+更新说明：新增 免费电子书检索下载
     
       目录：    
     一、马列毛学习推荐    
@@ -78,10 +79,10 @@ https://book.mlmlib.top/
 马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）  
 https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D    
 # 五.电子书检索下载引擎网站
-1.首选zli图书馆（全球最大开源电子书网站，一个账号每人免费10次下载）安卓app端见网盘1
-官网(需要魔法)： https://z-lib.is/         
-镜像站（免魔法）： https://zlibrary-redirect.se/?redirectUrl=/   
-2.pdfdrive图书馆  https://www.pdfdrive.com/#      
+1.首选zli图书馆（全球最大开源电子书网站，一个账号每人免费10次下载）安卓app端见网盘1    
+官网(需要魔法)： https://z-lib.is/             
+镜像站（免魔法）： https://zlibrary-redirect.se/?redirectUrl=/        
+2.pdfdrive图书馆  https://www.pdfdrive.com/#            
 3.libgen图书馆   https://libgen.li/       
 4.无产阶级图书馆   http://45.32.41.3/            
 
