@@ -64,7 +64,7 @@ https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang
 https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo          
 （三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）       
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131      
-（四）燎原月刊官方网盘（同步更新）：   
+（四）燎原月刊官方网盘（同步比后文github连接慢）：      
 https://www.mediafire.com/folder/19inu1mna8ioz          
 #  四.其他人的github项目/资料库，包含很多资料
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7.png)   
