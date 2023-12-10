@@ -1,7 +1,7 @@
 # 全世界无产者联合起来，全世界受压迫者和被剥削者联合起来，实现自我解放！为了实现共产主义而奋斗
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E7%BA%AA%E5%BF%B5%E6%95%99%E5%91%98%E6%AF%9B%E6%B3%BD%E4%B8%9C.png)
 **maoism-马列毛主义图书资料库（纪念我们的伟大导师 马克思 恩格斯 列宁 斯大林 毛泽东主席）**  
-更新说明：新增 免费电子书检索下载
+更新说明：新增 免费电子书检索下载，燎原官方网盘    
     
       目录：    
     一、马列毛学习推荐    
@@ -63,7 +63,9 @@ https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang
 （二）马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判（包含 马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等）  
 https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo    
 （三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）  
-https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131  
+https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131 
+（四）燎原月刊官方网盘（同步更新）：
+https://www.mediafire.com/folder/19inu1mna8ioz    
 #  四.其他人的github项目/资料库，包含很多资料
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7.png)   
 &ensp;&ensp;&ensp;&ensp;******github项目可以在线阅览书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用*****   
