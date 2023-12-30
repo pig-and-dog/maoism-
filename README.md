@@ -76,9 +76,9 @@
 https://www.mediafire.com/folder/p2k4qrsmo8tu4/mengxiang     
 （二）马列毛哲学+阶级斗争实践+西马/托派/安娜其主义/修正主义批判（包含 马列毛哲学学习专题，原著及导读，妇女解放，工人学生教育专题，魏巍同志晚年文章专题，阳和平专题文章视频音频，铁木尔哈达(党员)的晚年日记《醒悟》，农民副总理陈永贵专题等）  
 https://www.mediafire.com/folder/dccdcgzpmz7hw/aiguo          
-（三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊 ，春雷，热浪等杂志，历史影视，纪录片等，最新的燎原和春雷请看后文分享的的官方同步库）       
+（三）影音画报（bbs论坛语音，马列之声公众号旧文章，毛选朗读版，红旗，人民日报，燎原月刊，春雷，热浪等杂志，历史影视，纪录片等。注意：最新的燎原和春雷请看后文分享的的燎原官方github库）        
 https://www.mediafire.com/folder/2kxxjpahtydi4/aiguo113131      
-（四）燎原月刊官方网盘（同步比后文github连接慢）：      
+（四）燎原月刊官方网盘（同步比后文燎原官方github链接慢）：      
 https://www.mediafire.com/folder/19inu1mna8ioz          
 #  四.其他人的github项目/资料库，包含很多资料
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7.png)   
