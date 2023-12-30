@@ -89,11 +89,10 @@ https://www.mediafire.com/folder/19inu1mna8ioz
 春雷杂志官方（同步更新）   https://github.com/monthlyliaoyuan/SpringThunder     
 马列毛资料库 （支持在线观看/下载）     https://github.com/ProletRevDicta/Prolet        
 
-非github其他资料库     
+非github其他资料库 （已失效）       
 马列毛资料库网页版，此为马列毛资料库app的网页版，需要密码登录，密码在顶部提示（注意鉴别里面的的西马特别是阿尔都塞的内容）  
 https://book.mlmlib.top/     
-马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）  
-https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D    
+  
 # 五.电子书和纪录片电影检索下载引擎网站
 1.首选zli图书馆（全球最大开源电子书网站，一个账号每人免费10次下载）安卓app端见网盘1    
 官网(需要魔法)： https://z-lib.is/             
