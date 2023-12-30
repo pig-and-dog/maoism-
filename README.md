@@ -3,14 +3,14 @@
 **maoism-马列毛主义图书资料库（纪念我们的伟大导师 马克思 恩格斯 列宁 斯大林 毛泽东主席）**  
 ### 最近有人冒充对此项目所有权，公开声明：此项目属于所有无产阶级，内容全部收集自互联网，不属于任何人，警惕有人或组织冒充，用于诈骗或犯罪行为。    
 安卓版app在电脑版网页右侧，安卓版网页底部        
-更新说明：新增 免费电子书检索下载，燎原官方网盘           
+更新说明：新增 免费电子书检索下载，燎原官方网盘,影视纪录片磁力搜索等          
     
       目录：    
     一、马列毛学习推荐    
     二、西方马克思主义概论及批判        
     三、互联网搜集的网盘（分类齐全）   
     四、其他人的github项目/资料库（燎原月刊/春雷等）   
-    五  免费电子书检索下载（zli图书馆等）
+    五  免费电子书/纪录片/电影检索下载（zli图书馆等）
     六.一些推荐网站（布站，毛主义国际官网等）       
     七、匿名邮箱，匿名加密信息传输分享，图片文件消息 阅后即焚   
     
@@ -94,14 +94,15 @@ https://www.mediafire.com/folder/19inu1mna8ioz
 https://book.mlmlib.top/     
 马列毛资料库app  文件备份，如果上面网页版不会用就用这个 - OneDrive网盘（需要登陆微软账户，注意鉴别里面的的西马特别是阿尔都塞的内容）  
 https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&cid=79798F83ED11E55D    
-# 五.电子书检索下载引擎网站
+# 五.电子书和纪录片电影检索下载引擎网站
 1.首选zli图书馆（全球最大开源电子书网站，一个账号每人免费10次下载）安卓app端见网盘1    
 官网(需要魔法)： https://z-lib.is/             
 镜像站（免魔法）： https://zlibrary-redirect.se/?redirectUrl=/        
 2.pdfdrive图书馆  https://www.pdfdrive.com/#            
 3.libgen图书馆   https://libgen.li/       
-4.无产阶级图书馆   http://45.32.41.3/            
-
+4.无产阶级图书馆   http://45.32.41.3/    
+5.如何下载纪录片电影：谷歌或者bing搜索磁力网站，在磁力网站检索资源。示例磁力聚合：
+https://www.5hacg.com/article/6622.html  
 # 六.一些推荐网站  (新闻资料等)  
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%AD%A6%E7%94%9F.png)    
 ### 布站**（新闻 文章等，需要魔法）   https://longlivemarxleninmaoism.online/    
