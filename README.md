@@ -87,7 +87,7 @@ https://www.mediafire.com/folder/19inu1mna8ioz
 小黑网络加速器备用： https://github.com/bannedbook/fanqiang         
 燎原月刊官方（同步更新）   https://github.com/monthlyliaoyuan/monthlyliaoyuan     
 春雷杂志官方（同步更新）   https://github.com/monthlyliaoyuan/SpringThunder     
-马列毛资料      https://github.com/ProletRevDicta/Prolet        
+马列毛资料库 （支持在线观看/下载）     https://github.com/ProletRevDicta/Prolet        
 
 非github其他资料库     
 马列毛资料库网页版，此为马列毛资料库app的网页版，需要密码登录，密码在顶部提示（注意鉴别里面的的西马特别是阿尔都塞的内容）  
