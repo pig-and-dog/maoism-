@@ -101,8 +101,8 @@ https://onedrive.live.com/?authkey=%21AE3BNzctXjj0k14&id=79798F83ED11E55D%21872&
 2.pdfdrive图书馆  https://www.pdfdrive.com/#            
 3.libgen图书馆   https://libgen.li/       
 4.无产阶级图书馆   http://45.32.41.3/    
-5.如何下载纪录片电影：谷歌或者bing搜索磁力网站，在磁力网站检索资源。示例磁力聚合：
-https://www.5hacg.com/article/6622.html  
+5.如何下载纪录片/电影：谷歌或者bing搜索磁力网站，在磁力网站检索资源/谷歌直接搜索电影纪录片。示例磁力聚合：   
+https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工具下载    
 # 六.一些推荐网站  (新闻资料等)  
 ![image](https://github.com/bitface9527/maoism-/blob/main/images/%E5%AD%A6%E7%94%9F.png)    
 ### 布站**（新闻 文章等，需要魔法）   https://longlivemarxleninmaoism.online/    
